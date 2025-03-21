@@ -34,7 +34,4 @@ Check out the live site here 👉 [**Sushi Delight on Vercel**](https://sushi-we
 
 ---
 
-## 🚀 Deployment
-
 Deployed with [**Vercel**](https://vercel.com/)  
----
